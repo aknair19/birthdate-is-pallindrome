@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles&family=Oswald&display=swap');
+body{
+    background-color: white;
+    margin: auto;
+    background-color: rgb(238, 219, 255)
+}
+.container{
+ 
+    text-align: center;
+    background-color: rgb(220, 184, 252);
+    max-width: 40%;
+    padding: 5rem;
+    margin:  2rem auto;
+    font-family: 'Fuzzy Bubbles', cursive;
+}
+.container2{
+    text-align: center;
+    background-color: rgb(136, 110, 158);
+    padding: 5rem;
+    font-size: large;
+    font-weight: bolder;
+    margin: auto;
+    max-width: 40%;
+    font-family: 'Oswald', sans-serif;
+}
+.check{
+    padding: 1rem;
+    border: solid;
+    border-radius: 1rem;
+}
+#inputdate{
+    border: solid;
+    padding: 1rem;
+    border-radius: 1rem;
+}
